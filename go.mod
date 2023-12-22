@@ -16,7 +16,7 @@ require (
 	github.com/rs/zerolog v1.30.0
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/crypto v0.17.0
-	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63
+	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
 	golang.org/x/sync v0.3.0
 )
 
